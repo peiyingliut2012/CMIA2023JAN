@@ -65,6 +65,8 @@
 ![image](https://user-images.githubusercontent.com/123887929/215348542-79fc4735-69e2-472e-aeb7-6cb907ee2231.png)
 - client: when server is down, enter any key in client to try to connect to server again\
 ![image](https://user-images.githubusercontent.com/123887929/215348899-ba6d4be7-e7c1-48db-9ae2-e23c7cb75dc6.png)
+- client: validate request\
+![image](https://user-images.githubusercontent.com/123887929/215362891-aa0193ce-868a-4016-a730-45f263844706.png)
 - client: ctrl + c\
 ![image](https://user-images.githubusercontent.com/123887929/215349231-dedce750-74aa-4b3f-9e26-25911d9d0a25.png)
 - server: ctrl + c\
