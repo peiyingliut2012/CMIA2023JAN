@@ -1,0 +1,88 @@
+2023-01-29 18:19:55,024 INFO - ----------
+2023-01-29 18:19:55,024 INFO - user input: data
+2023-01-29 18:19:55,024 INFO - sent to server
+2023-01-29 18:19:55,035 INFO - response from server: len=13
+2023-01-29 18:19:55,035 INFO - response from server:
+AAPL	145.90,0
+2023-01-29 18:19:55,035 INFO - AAPL	145.90,0
+2023-01-29 18:19:55,036 INFO - client closed
+2023-01-29 18:19:59,104 INFO - ----------
+2023-01-29 18:19:59,105 INFO - user input: add AAL
+2023-01-29 18:19:59,105 INFO - sent to server
+2023-01-29 18:19:59,656 INFO - response from server: len=1
+2023-01-29 18:19:59,662 INFO - response from server:
+0
+2023-01-29 18:19:59,662 INFO - 0
+2023-01-29 18:19:59,662 INFO - client closed
+2023-01-29 18:20:00,943 INFO - ----------
+2023-01-29 18:20:00,943 INFO - user input: data
+2023-01-29 18:20:00,943 INFO - sent to server
+2023-01-29 18:20:00,947 INFO - response from server: len=13
+2023-01-29 18:20:00,947 INFO - response from server:
+AAPL	145.90,0
+2023-01-29 18:20:00,947 INFO - AAPL	145.90,0
+2023-01-29 18:20:00,948 INFO - client closed
+2023-01-29 18:20:06,553 INFO - ----------
+2023-01-29 18:20:06,553 INFO - user input: report
+2023-01-29 18:20:06,553 INFO - sent to server
+2023-01-29 18:20:10,011 INFO - response from server: len=41
+2023-01-29 18:20:10,011 INFO - response from server:
+Successfully updated report for AAL, AAPL
+2023-01-29 18:20:10,011 INFO - Successfully updated report for AAL, AAPL
+2023-01-29 18:20:10,011 INFO - client closed
+2023-01-29 18:20:11,832 INFO - ----------
+2023-01-29 18:20:11,832 INFO - user input: data
+2023-01-29 18:20:11,832 INFO - sent to server
+2023-01-29 18:20:11,836 INFO - response from server: len=25
+2023-01-29 18:20:11,836 INFO - response from server:
+AAL	16.40,0
+AAPL	145.90,0
+2023-01-29 18:20:11,836 INFO - AAL	16.40,0
+AAPL	145.90,0
+2023-01-29 18:20:11,836 INFO - client closed
+2023-01-29 18:20:21,551 INFO - ----------
+2023-01-29 18:20:21,551 INFO - user input: add AAL123
+2023-01-29 18:20:21,551 INFO - sent to server
+2023-01-29 18:20:21,690 INFO - response from server: len=1
+2023-01-29 18:20:21,690 INFO - response from server:
+2
+2023-01-29 18:20:21,690 INFO - 2
+2023-01-29 18:20:21,691 INFO - client closed
+2023-01-29 18:20:39,296 INFO - ----------
+2023-01-29 18:20:39,296 INFO - user input: delete AAL
+2023-01-29 18:20:39,297 INFO - sent to server
+2023-01-29 18:20:39,299 INFO - response from server: len=1
+2023-01-29 18:20:39,299 INFO - response from server:
+0
+2023-01-29 18:20:39,299 INFO - 0
+2023-01-29 18:20:39,300 INFO - client closed
+2023-01-29 18:20:41,903 INFO - ----------
+2023-01-29 18:20:41,903 INFO - user input: data
+2023-01-29 18:20:41,903 INFO - sent to server
+2023-01-29 18:20:41,911 INFO - response from server: len=13
+2023-01-29 18:20:41,911 INFO - response from server:
+AAPL	145.90,0
+2023-01-29 18:20:41,912 INFO - AAPL	145.90,0
+2023-01-29 18:20:41,912 INFO - client closed
+2023-01-29 18:20:46,120 INFO - ----------
+2023-01-29 18:20:46,120 INFO - user input: random_cmd
+2023-01-29 18:20:46,120 INFO - This request is not supported. Supported requests are data, delete, add, report.
+2023-01-29 18:20:46,121 INFO - client closed
+2023-01-29 18:22:09,359 INFO - ----------
+2023-01-29 18:22:09,359 INFO - user input: 
+2023-01-29 18:22:09,359 INFO - This request is not supported. Supported requests are data, delete, add, report.
+2023-01-29 18:22:09,359 INFO - client closed
+2023-01-29 18:22:11,397 INFO - Failed to connect to server. Press enter to try again.
+2023-01-29 18:22:13,445 INFO - Failed to connect to server. Press enter to try again.
+2023-01-29 18:22:29,512 INFO - ----------
+2023-01-29 18:22:29,512 INFO - user input: 
+2023-01-29 18:22:29,512 INFO - This request is not supported. Supported requests are data, delete, add, report.
+2023-01-29 18:22:29,513 INFO - client closed
+2023-01-29 18:22:31,585 INFO - ----------
+2023-01-29 18:22:31,585 INFO - user input: data
+2023-01-29 18:22:31,585 INFO - sent to server
+2023-01-29 18:22:31,588 INFO - response from server: len=13
+2023-01-29 18:22:31,588 INFO - response from server:
+AAPL	145.90,0
+2023-01-29 18:22:31,588 INFO - AAPL	145.90,0
+2023-01-29 18:22:31,588 INFO - client closed
