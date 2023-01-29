@@ -8,7 +8,7 @@
 
 
 #### Launch Client
-- (1) open server.cmd and modify input params\
+- (1) open client.cmd and modify input params\
 ![image](https://user-images.githubusercontent.com/123887929/215348248-3a7c0842-a554-43ef-8db2-2f35fc350858.png)
 - (1) click client.cmd
 
